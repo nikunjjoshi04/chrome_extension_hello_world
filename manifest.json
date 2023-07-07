@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "leadsin",
+    "version": "1.0",
+    "description": "leadsin manifest description",
+    "icons": {
+        "128": "icons/ssicon128.png",
+        "48": "icons/ssicon48.png",
+        "16": "icons/ssicon16.png"
+    },
+    "browser_action": {
+        "default_icon": "icons/ssicon16.png",
+        "default_popup": "popup.html"
+    }
+}
